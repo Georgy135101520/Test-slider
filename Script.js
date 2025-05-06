@@ -1,0 +1,5 @@
+let slider = document.querySelector('.slider')
+let arrowLeft = document.querySelector('.arrow-left')
+let arrowRight = document.querySelector('.arrow-right')
+let slides = document.querySelector('.slider-image')
+let button = document.querySelector('.bottom')
